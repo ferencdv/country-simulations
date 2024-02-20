@@ -1,6 +1,6 @@
 ## countrysims
 - Code uses Autogen to simulate two teams (US and Russia) for Treaty on Nonstrategic Nuclear Weapons Reduction
-- Implements RAG to access 20 different pdfs that focus on NW diplomacy and are directly relevant
+- Implements RAG to access 36+ different pdfs that focus on NW diplomacy and are directly relevant
 - Uses chroma and OpenAI embeddings for RAG as well as calling GPT 3.5 from OpenAI for agent simulations
 - Chroma subdirectories are not included here
 - The OAI_CONFIG_LIST file with API key is also not included here.
