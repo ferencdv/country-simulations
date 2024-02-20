@@ -19,33 +19,15 @@ criteria_descriptions = [
 
 The program uses a list of draft articles titles as a way of starting the conversation. These articles are based on GPT Custom Assistant implemntation of "Arbiter Agent" on Open AI's ChatGPT webpage. 
 
-Article 1 - Definitions and Scope
-
-Defines nonstrategic nuclear weapons (NSNWs) and establishes the treaty's scope, including obligations to reduce and aim towards eliminating NSNWs, whether based within or outside national territory.
-Article 2 - Obligations for Removal, Destruction, and Verification
-
-Details the parties' obligations for the removal, destruction, and verified elimination of NSNWs, outlining specific procedures and establishing a verification regime.
-Article 3 - Verification and Compliance Mechanisms
-
-Establishes a comprehensive verification regime, detailing the use of national technical means for verification and ensuring compliance with the treaty's obligations.
-Article 4 - Special Verification Commission (SVC)
-
-Describes the functions, activities, and establishment of the SVC, which will oversee the treaty's implementation and promote its objectives.
-Article 5 - Security and Confidentiality Measures
-
-Addresses the use of encryption for securing communications related to the treaty's implementation and verification.
-Article 6 - Amendments, Ratification, and Entry into Force
-
-Outlines the process for making amendments to the treaty, describes the ratification process, and outlines the procedures for the treaty's entry into force.
-Article 7 - Withdrawal and Extraordinary Circumstances
-
-Provides the right for parties to withdraw from the treaty under extraordinary circumstances, ensuring that the treaty remains adaptable to changing security environments.
-Article 8 - To Be Decided
-
-Article 9 - To Be Decided
-
-Article 10 - To Be Decided
-
-Annex 1 - To Be Decided
-
-Annex 2 - To Be Decided
+- Article 1 - Definitions and Scope Defines nonstrategic nuclear weapons (NSNWs) and establishes the treaty's scope, including obligations to reduce and aim towards eliminating NSNWs, whether based within or outside national territory.
+- Article 2 - Obligations for Removal, Destruction, and Verification Details the parties' obligations for the removal, destruction, and verified elimination of NSNWs, outlining specific procedures and establishing a verification regime.
+- Article 3 - Verification and Compliance Mechanisms Establishes a comprehensive verification regime, detailing the use of national technical means for verification and ensuring compliance with the treaty's obligations.
+- Article 4 - Special Verification Commission (SVC) Describes the functions, activities, and establishment of the SVC, which will oversee the treaty's implementation and promote its objectives.
+- Article 5 - Security and Confidentiality Measures Addresses the use of encryption for securing communications related to the treaty's implementation and verification.
+- Article 6 - Amendments, Ratification, and Entry into Force Outlines the process for making amendments to the treaty, describes the ratification process, and outlines the procedures for the treaty's entry into force.
+- Article 7 - Withdrawal and Extraordinary Circumstances Provides the right for parties to withdraw from the treaty under extraordinary circumstances, ensuring that the treaty remains adaptable to changing security environments.
+- Article 8 - To Be Decided 
+- Article 9 - To Be Decided
+- Article 10 - To Be Decided
+- Annex 1 - To Be Decided
+- Annex 2 - To Be Decided
