@@ -1,16 +1,23 @@
 ## countrysims
-Code uses Autogen to simulate two teams (US and Russia) for Treaty on Nonstrategic Nuclear Weapons Reduction
-Implements RAG to access 20 different pdfs that focus on NW diplomacy and are directly relevant
-Uses chroma and OpenAI embeddings for RAG as well as calling GPT 3.5 from OpenAI for agent simulations
+- Code uses Autogen to simulate two teams (US and Russia) for Treaty on Nonstrategic Nuclear Weapons Reduction
+- Implements RAG to access 20 different pdfs that focus on NW diplomacy and are directly relevant
+- Uses chroma and OpenAI embeddings for RAG as well as calling GPT 3.5 from OpenAI for agent simulations
+- Chroma subdirectories are not included here
+- The OAI_CONFIG_LIST file with API key is also not included here.
+
 There is also a team leader on each team that is supposed to evaluate the draft article as it is being written and passed from one team agent (starting at agent 1 all the way to agent 5). The team leader should apply the following criteria and accept or don't accept. If the team leader find that the criteria has been met the draft article is passed to the other team. If it fails then discussions will continue within the team.
+
 The acceptance criteria simplified are:
+
 criteria_descriptions = [
             "Supports treaty's objectives and provides clear direction.",
             "The article covers essential elements, clearly defining the treaty's scope.",
             "The article should work towards reducing ambiguities to aid in achieving a shared understanding among stakeholders.",
             "Aligns with national interests, supporting treaty aims and strategic objectives."
         ]
+
 The program uses a list of draft articles titles as a way of starting the conversation. These articles are based on GPT Custom Assistant implemntation of "Arbiter Agent" on Open AI's ChatGPT webpage. 
+
 agreed_structure = {
     1: {"title": "Article 1 - Definitions and Scope", "content": "Defines nonstrategic nuclear weapons (NSNWs) and establishes the treaty's scope, including obligations to reduce and aim towards eliminating NSNWs, whether based within or outside national territory."},
     2: {"title": "Article 2 - Obligations for Removal, Destruction, and Verification", "content": "Details the parties' obligations for the removal, destruction, and verified elimination of NSNWs, outlining specific procedures and establishing a verification regime."},
