@@ -6,6 +6,8 @@
 - The OAI_CONFIG_LIST file with API key is also not included here.
 -  Output is color coded: US conversations in blue, Russia conversations in red.
 
+-  Usage: python dark1.py --exchanges 3 --detailed
+
 There is also a team leader on each team that is supposed to evaluate the draft article as it is being written and passed from one team agent (starting at agent 1 all the way to agent 5). The team leader should apply the following criteria and accept or don't accept. If the team leader find that the criteria has been met the draft article is passed to the other team. If it fails then discussions will continue within the team.
 
 ### The acceptance criteria simplified are:
